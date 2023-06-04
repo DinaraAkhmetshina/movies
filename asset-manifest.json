@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movies/static/css/main.4b32d36c.css",
+    "main.js": "/movies/static/js/main.bec3bc18.js",
+    "static/media/onerog.png": "/movies/static/media/onerog.56b35ede0fd236297c59.png",
+    "static/media/error.png": "/movies/static/media/error.114cc84c318964a05126.png",
+    "index.html": "/movies/index.html",
+    "main.4b32d36c.css.map": "/movies/static/css/main.4b32d36c.css.map",
+    "main.bec3bc18.js.map": "/movies/static/js/main.bec3bc18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b32d36c.css",
+    "static/js/main.bec3bc18.js"
+  ]
+}
